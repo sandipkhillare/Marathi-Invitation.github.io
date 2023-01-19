@@ -334,7 +334,7 @@ figure {
 @media only screen and (max-width: 768px) {
   .fh5co-cover {
     height: 550px;
-    background-image: url("../images/mobile_bg.jpg") !important;
+    background-image: url("../images/mobile_bg.jpeg") !important;
   }
 }
 .fh5co-cover .display-t,
